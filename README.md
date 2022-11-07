@@ -10,4 +10,4 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
-NOTE: Some/Most of the text have a cursor:pointer css syntax on them. Not an actual functioning "a" element
+NOTE: All of the text here has a cursor:pointer css syntax on them. Not an actual functioning "a" element
